@@ -17,5 +17,14 @@ My Python learning journey using Python and VS Code.
 - User Input
 - Practice Problems
 
+### Day 3 
+- Introduction to Strings
+- String Indexing
+- String Slicing
+- Negative Slicing
+- String Functions
+- Escape sequences
+- Practice Problem
+
 ## Goal
 To become proficient in Python programming and build projects consistently.
